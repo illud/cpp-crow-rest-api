@@ -1,1 +1,1 @@
-# cpp-crow-rest-api## Requirementsvcpkg (https://vcpkg.io/)- curl (.\vcpkg install crow)## Methods- POST- GET- GET FILTER- DELETE
+# cpp-crow-rest-api## Requirementsvcpkg (https://vcpkg.io/)- crow (.\vcpkg install crow)## Methods- POST- GET- GET FILTER- DELETE
